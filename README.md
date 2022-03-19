@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redcrafter18 🐍 :D
+- 👋 Hi, I’m @redcrafter18 :D
 - 👀 I’m interested in graphic design, desktop application programming and game development.
 - 🌱 I'm currently working with Python and Minecraft plugins using Java
 
